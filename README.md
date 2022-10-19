@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am [Peter Chang](https://petergchang.github.io). I currently work as a researcher for [CAAI](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/about) at the [Booth School of Business](https://www.chicagobooth.edu/).
 
-During the summer of 2022, I worked with [Kevin P. Murphy](https://github.com/murphyk) and [Scott Linderman](https://github.com/slinderman) as a contributor to Google Summer of Code 2022.
+During the summer of 2022, I worked with [Kevin P. Murphy](https://github.com/murphyk) and [Scott Linderman](https://github.com/slinderman) as a contributor to Google Summer of Code 2022. I am the core developer for [dynamax](https://github.com/probml/dynamax), a state-space models library in JAX.
