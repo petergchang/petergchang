@@ -18,4 +18,4 @@ I am [Peter Chang](https://petergchang.github.io). I currently work as a researc
 
 During the summer of 2022, I worked with [Kevin P. Murphy](https://github.com/murphyk) and [Scott Linderman](https://github.com/slinderman) as a contributor to Google Summer of Code 2022.
 
-I am the core developer for [dynamax](https://github.com/probml/dynamax), a state-space models library in JAX.
+I am a core developer for [dynamax](https://github.com/probml/dynamax), a state-space models library in JAX.
