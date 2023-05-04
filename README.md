@@ -18,4 +18,4 @@ I am [Peter Chang](https://petergchang.github.io). I currently work as a researc
 
 During the summer of 2022, I worked with [Kevin P. Murphy](https://github.com/murphyk) and [Scott Linderman](https://github.com/slinderman) as a contributor to Google Summer of Code 2022.
 
-I am a core developer for [dynamax](https://github.com/probml/dynamax), a state-space model library in JAX, and [rebayes](https://github.com/probml/rebayes), an online Bayesian inference library in JAX.
+I am a core developer (JAX) for [dynamax](https://github.com/probml/dynamax), a state-space model library and [rebayes](https://github.com/probml/rebayes), an online Bayesian inference library in JAX.
