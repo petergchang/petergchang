@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am [Peter Chang](https://petergchang.github.io). I currently work as a researcher for [CAAI](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/about) at the [Booth School of Business](https://www.chicagobooth.edu/).
 
-I am a core developer (JAX) for [dynamax](https://github.com/probml/dynamax), a state-space model library, and [rebayes](https://github.com/probml/rebayes), an online Bayesian inference library in JAX.
+I am a core developer for [dynamax](https://github.com/probml/dynamax), a state-space model library, and [rebayes](https://github.com/probml/rebayes), an online Bayesian inference library in JAX.
