@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am [Peter Chang](https://petergchang.github.io). I currently work as a researcher for [CAAI](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/about) at the [Booth School of Business](https://www.chicagobooth.edu/).
+I am [Peter Chang](https://petergchang.github.io). I am a PhD student at MIT EECS/CSAIL.
 
 I am a core developer for [dynamax](https://github.com/probml/dynamax), a state-space model library.
