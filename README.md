@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am [Peter Chang](https://petergchang.github.io). I am a PhD student at MIT EECS/CSAIL.
-
-I am interested in building an AI scientist.
+I am [Peter Chang](https://petergchang.github.io). I am a PhD student at MIT EECS/CSAIL. I am building an AI scientist.
